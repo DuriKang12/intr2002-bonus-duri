@@ -1,2 +1,3 @@
-# intr2002-bonus-duri
+# My first GitHub repo
+
 My first repo experience
