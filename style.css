@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn-primary
+{
+    background-color: rgb(98, 152, 98);
+    border-color: white;
+    border-radius: 10px;
+}
+
+#nav a.active
+{
+    background-color: black !important;
+}
